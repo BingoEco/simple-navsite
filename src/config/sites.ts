@@ -31,6 +31,7 @@ export const pinnedSites: Site[] = [
   { name: 'spring-boot', url: 'https://spring.io/projects/spring-boot' },
   { name: 'Golang', url: 'https://golang.google.cn/dl/' },
   { name: 'Gorm', url: 'https://gorm.io/zh_CN/docs/index.html' },
+  { name: 'Vue', url: 'https://cn.vuejs.org/guide/introduction.html' },
 ]
 
 // 侧边栏网站分类
