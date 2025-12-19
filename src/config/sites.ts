@@ -26,12 +26,14 @@ export const pinnedSites: Site[] = [
   { name: '广东TV', url: 'https://www.gdtv.cn/' },
   { name: '咪咕体育', url: 'https://www.miguvideo.com/' },
   { name: '微博', url: 'https://weibo.com' },
-  { name: 'uni-app', url: 'https://uniapp.dcloud.net.cn/' },
   { name: 'uni-app-x', url: 'https://doc.dcloud.net.cn/uni-app-x/' },
   { name: 'spring-boot', url: 'https://spring.io/projects/spring-boot' },
   { name: 'Golang', url: 'https://golang.google.cn/dl/' },
   { name: 'Gorm', url: 'https://gorm.io/zh_CN/docs/index.html' },
   { name: 'Vue', url: 'https://cn.vuejs.org/guide/introduction.html' },
+  { name: 'Casbin', url: 'https://casbin.org/zh/docs/get-started' },
+  { name: 'SoybeanAdmin', url: 'https://docs.soybeanjs.cn/zh/' },
+  { name: 'liwenzhou', url: 'https://www.liwenzhou.com/' },
 ]
 
 // 侧边栏网站分类
