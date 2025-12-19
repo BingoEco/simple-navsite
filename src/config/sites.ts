@@ -29,11 +29,16 @@ export const pinnedSites: Site[] = [
   { name: 'uni-app-x', url: 'https://doc.dcloud.net.cn/uni-app-x/' },
   { name: 'spring-boot', url: 'https://spring.io/projects/spring-boot' },
   { name: 'Golang', url: 'https://golang.google.cn/dl/' },
-  { name: 'Gorm', url: 'https://gorm.io/zh_CN/docs/index.html' },
   { name: 'Vue', url: 'https://cn.vuejs.org/guide/introduction.html' },
   { name: 'Casbin', url: 'https://casbin.org/zh/docs/get-started' },
+  { name: 'Gorm', url: 'https://gorm.io/zh_CN/docs/index.html' },
+  { name: 'Xorm', url: 'https://xorm.io/zh/docs/' },
   { name: 'SoybeanAdmin', url: 'https://docs.soybeanjs.cn/zh/' },
+  { name: 'pure-admin', url: 'https://pure-admin.cn/' },
   { name: 'liwenzhou', url: 'https://www.liwenzhou.com/' },
+  { name: 'Youlai', url: 'https://www.youlai.tech/vue-docs/' },
+  { name: 'RuoYi-Vue-Plus', url: 'https://plus-doc.dromara.org/' },
+  { name: 'dromara', url: 'https://dromara.org/zh/' },
 ]
 
 // 侧边栏网站分类
