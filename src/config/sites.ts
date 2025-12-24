@@ -33,12 +33,14 @@ export const pinnedSites: Site[] = [
   { name: 'Casbin', url: 'https://casbin.org/zh/docs/get-started' },
   { name: 'Gorm', url: 'https://gorm.io/zh_CN/docs/index.html' },
   { name: 'Xorm', url: 'https://xorm.io/zh/docs/' },
-  { name: 'SoybeanAdmin', url: 'https://docs.soybeanjs.cn/zh/' },
-  { name: 'pure-admin', url: 'https://pure-admin.cn/' },
+  { name: 'Soybean', url: 'https://docs.soybeanjs.cn/zh/' },
+  { name: 'pureadmin', url: 'https://pure-admin.cn/' },
   { name: 'liwenzhou', url: 'https://www.liwenzhou.com/' },
   { name: 'Youlai', url: 'https://www.youlai.tech/vue-docs/' },
-  { name: 'RuoYi-Vue-Plus', url: 'https://plus-doc.dromara.org/' },
+  { name: 'RuoYi-Plus', url: 'https://plus-doc.dromara.org/' },
   { name: 'dromara', url: 'https://dromara.org/zh/' },
+  { name: 'naiveui', url: 'https://www.naiveui.com/zh-CN/os-theme' },
+  { name: 'element-plus', url: 'https://element-plus.org/zh-CN/' },
 ]
 
 // 侧边栏网站分类
