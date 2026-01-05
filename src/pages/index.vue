@@ -480,7 +480,7 @@ function onSearchInputBlur() {
 .app-container {
   min-height: 100vh;
   position: relative;
-  background-image: url('/img/bg.png');
+  background-image: url('/img/bg_win.jpeg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
