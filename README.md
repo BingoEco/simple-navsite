@@ -61,6 +61,14 @@ export const categories: Category[] = [
   ])
 ```
 
+配置壁纸
+
+上传图片到 `public\img` 目录下, 然后编辑 `src\pages\index.vue` 文件的css部分，如下
+
+```vue
+background-image: url('/img/bg_win.jpeg');
+```
+
 ## 技术栈
 
 - [Vue 3](https://v3.vuejs.org/)
