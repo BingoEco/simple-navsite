@@ -315,7 +315,7 @@ onBeforeUnmount(() => {
   min-height: 100vh;
   position: relative;
   /* background-image: url('./assets/dark.jpeg'); */
-  background-color: #18181c;
+  background-color: #121212;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -337,7 +337,7 @@ onBeforeUnmount(() => {
   justify-content: space-between;
   align-items: center;
   padding: 0rem 1.5rem;
-  background-color: #18181c;
+  background-color: #121212;
   box-shadow: none;
   position: sticky;
   top: 0;
@@ -357,7 +357,7 @@ onBeforeUnmount(() => {
   background: none;
   border: none;
   cursor: pointer;
-  color: #fff;
+  color: #E0E0E0;
   padding: 0.5rem;
   border-radius: 8px;
   transition: all 0.3s ease;
@@ -374,7 +374,7 @@ onBeforeUnmount(() => {
 
 .github-link {
   font-size: 1.2rem;
-  color: #fff;
+  color: #E0E0E0;
   padding: 0.5rem;
   border-radius: 8px;
   transition: all 0.3s ease;
@@ -406,7 +406,7 @@ onBeforeUnmount(() => {
 .sidebar {
   width: 250px;
   height: calc(100vh - 70px);
-  background-color: #18181c;
+  background-color: #121212;
   padding: 1rem;
   transition: transform 0.3s ease;
   position: fixed;
@@ -464,7 +464,7 @@ onBeforeUnmount(() => {
 .category-group h4 {
   margin: 0 0 0.6rem;
   font-size: 0.9rem;
-  color: #ffffff;
+  color: #E0E0E0;
   font-weight: 600;
   padding-bottom: 0.3rem;
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
@@ -479,9 +479,9 @@ onBeforeUnmount(() => {
 
 .tag {
   padding: 0.4rem 0.7rem;
-  border: 1px solid rgba(255, 255, 255, 0.5);
+  border: 1px solid #2d2d2d;
   background-color: rgba(255, 255, 255, 0.15);
-  color: white;
+  color: #E0E0E0;
   border-radius: 15px;
   font-size: 0.8rem;
   cursor: pointer;
@@ -492,7 +492,7 @@ onBeforeUnmount(() => {
 
 .tag:hover {
   background-color: #4a90e2;
-  color: white;
+  color: #E0E0E0;
   transform: translateY(-1px);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
   border-color: white;
@@ -608,7 +608,7 @@ form {
   left: 0;
   right: 0; /* 自动撑满容器宽度 */
   z-index: 1000;
-  background: white;
+  background: #1e1e1e;
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   overflow: hidden;
@@ -619,7 +619,7 @@ form {
   cursor: pointer;
   border-bottom: 1px solid #eee;
   text-align: left;
-  color: #333;
+  color: #e0e0e0;
   transition: background-color 0.2s;
 }
 
@@ -652,7 +652,7 @@ form {
   cursor: pointer;
   transition: all 0.3s ease;
   text-decoration: none;
-  color: white;
+  color: #E0E0E0;
   font-weight: 500;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
   font-size: 0.95rem;
@@ -707,7 +707,7 @@ form {
   .category-group h4 {
     margin: 0 0 0.8rem;
     font-size: 1rem;
-    color: #ffffff;
+    color: #E0E0E0;
     font-weight: 600;
     padding-bottom: 0.3rem;
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
