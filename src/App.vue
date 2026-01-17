@@ -314,7 +314,8 @@ onBeforeUnmount(() => {
 .app-container {
   min-height: 100vh;
   position: relative;
-  background-image: url('./assets/dark.jpeg');
+  /* background-image: url('./assets/dark.jpeg'); */
+  background-color: #18181c;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -336,7 +337,7 @@ onBeforeUnmount(() => {
   justify-content: space-between;
   align-items: center;
   padding: 0rem 1.5rem;
-  background-color: rgba(255, 255, 255, 0);
+  background-color: #18181c;
   box-shadow: none;
   position: sticky;
   top: 0;
@@ -405,7 +406,7 @@ onBeforeUnmount(() => {
 .sidebar {
   width: 250px;
   height: calc(100vh - 70px);
-  background-color: black;
+  background-color: #18181c;
   padding: 1rem;
   transition: transform 0.3s ease;
   position: fixed;
@@ -676,7 +677,7 @@ form {
 
   .header {
     padding: 1rem 1rem;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: #18181c;
     backdrop-filter: blur(10px);
   }
 
@@ -685,7 +686,7 @@ form {
     padding: 1rem;
     height: calc(100vh - 70px);
     top: 70px;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: #18181c;
     border-right: 1px solid rgba(255, 255, 255, 0.2);
     box-shadow: 3px 0 15px rgba(0, 0, 0, 0.5);
     z-index: 100;
