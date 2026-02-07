@@ -7,6 +7,7 @@ export const pinnedSites: Site[] = [
   { name: '今日热榜', url: 'https://tophub.today/' },
   { name: 'GitHub', url: 'https://github.com' },
   { name: 'Gitee', url: 'https://gitee.com/' },
+  { name: 'dockerhub', url: 'https://hub.docker.com/' },
   { name: 'CSDN', url: 'https://www.csdn.net/' },
   { name: '豆瓣', url: 'https://douban.com/' },
   { name: '知乎', url: 'https://www.zhihu.com' },
@@ -47,8 +48,8 @@ export const pinnedSites: Site[] = [
   { name: 'liwenzhou', url: 'https://www.liwenzhou.com/' },
   { name: 'Youlai', url: 'https://www.youlai.tech/vue-docs/' },
   { name: 'RuoYi-Plus', url: 'https://plus-doc.dromara.org/' },
+  { name: 'RuoYi', url: 'https://ruoyi.vip/' },
   { name: 'dromara', url: 'https://dromara.org/zh/' },
-  { name: 'dockerhub', url: 'https://hub.docker.com/' },
 ]
 
 // 侧边栏网站分类
