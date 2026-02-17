@@ -29,6 +29,7 @@ export const pinnedSites: Site[] = [
   { name: '广东TV', url: 'https://www.gdtv.cn/' },
   { name: '咪咕体育', url: 'https://www.miguvideo.com/' },
   { name: '微博', url: 'https://weibo.com' },
+  { name: '思维导图', url: 'https://www.processon.com/' },
   { name: 'uni-app-x', url: 'https://doc.dcloud.net.cn/uni-app-x/' },
   { name: 'spring-boot', url: 'https://spring.io/projects/spring-boot' },
   { name: 'mybatis-flex', url: 'https://mybatis-flex.com/' },
